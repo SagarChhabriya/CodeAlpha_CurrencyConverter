@@ -373,4 +373,5 @@ public class Converter extends javax.swing.JFrame {
     private javax.swing.JComboBox<String> ToComboBox;
     private javax.swing.JLabel ToLabel;
     // End of variables declaration//GEN-END:variables
+    //Note: This application is created by using the Swing framework with drag-and-drop service of apache net beans IDE 17
 }
